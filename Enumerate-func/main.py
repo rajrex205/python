@@ -1,4 +1,4 @@
-# marks = [23, 14, 15, 16, 89, 99, 89] 
+marks = [23, 14, 15, 16, 89, 99, 89] 
 
 
 # for index,mark in enumerate(marks):
