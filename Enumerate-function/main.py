@@ -13,4 +13,3 @@ for index,na in enumerate(name):
     print(index,na)
     if (index == 3):
         print("your are right name")
-
